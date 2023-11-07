@@ -4,6 +4,7 @@
 3.Difference between Function statement and Function expression.
 4.Anonymous function.
 5.Named function expression.
+6.First Class Function(first class citizen)
 */
 
 
