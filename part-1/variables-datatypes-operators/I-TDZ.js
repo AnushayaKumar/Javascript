@@ -3,7 +3,7 @@
     2.They are not hoisted in the global scope.
     3.As they're hoisted in private scope they cannot be accessed until they're assigned a value.
     4.The zone from the hoisted point and assigning the value to the variable is called TDZ.
-    5.Trying to access variables inside temporal dead zone returns reeference error.
+    5.Trying to access variables inside temporal dead zone returns reference error.
 */
 
 // reference error ..cannot access before intialization.
